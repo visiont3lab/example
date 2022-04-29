@@ -1,4 +1,4 @@
 import numpy as np
 
 
-np.abs(2)
+print( np.abs(2) )
